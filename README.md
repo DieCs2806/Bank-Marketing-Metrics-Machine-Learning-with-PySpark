@@ -1,6 +1,3 @@
-# Bank-Marketing-Metrics-Machine-Learning-with-PySpark
-
-
 # Bank Marketing Classification with PySpark
 
 A comprehensive machine learning workshop demonstrating high-volume data processing, classification modeling, and predictive analytics using Apache Spark. This project analyzes bank marketing campaign data to predict whether clients will subscribe to a term deposit.
